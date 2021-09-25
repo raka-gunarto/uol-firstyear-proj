@@ -1,0 +1,2 @@
+librarian;9999;1
+testuser;1234;0

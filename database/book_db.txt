@@ -1,0 +1,6 @@
+0;test;test;2;2
+1;Learning C in 1 Hour;Raka Gunarto;2020;10
+2;Amazing C;Matteo Leonetti,Ammar Alsalka;2018;5
+3;Out of Ideas;No One,Not A. Person;2020;3
+4;Segfaults;Pointers,C Lang,G DB;2001;8
+5;SIGABRT;Linux Terminal,Windows Terminal;1999;5
